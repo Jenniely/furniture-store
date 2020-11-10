@@ -110,6 +110,7 @@ a:hover {
 .menu-link:hover {
     color: $text-dark;
     text-decoration: none;
+    border-bottom: 3px solid $text-gray;
 }
 
 .navbar-light .navbar-nav .menu-link-active {
