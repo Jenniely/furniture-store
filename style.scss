@@ -113,6 +113,10 @@ a:hover {
     border-bottom: 3px solid $text-gray;
 }
 
+.menu-link.search:hover {
+    border-bottom: none;
+}
+
 .navbar-light .navbar-nav .menu-link-active {
     color: $text-dark;
     font-weight: 700;
