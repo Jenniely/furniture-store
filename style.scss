@@ -474,6 +474,7 @@ a:hover {
 }
 
 .input-email {
+    padding: 0 37px 0 19px;
     width: 360px;
     height: 48px;
     border: 1px solid #d9dee1;
@@ -485,7 +486,6 @@ a:hover {
 }
 
 .input-email::placeholder {
-    padding-left: 19px;
     font-family: 'Montserrat';
     color: $text-gray;
     font-size: 14px;
